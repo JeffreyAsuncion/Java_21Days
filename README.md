@@ -10,4 +10,5 @@ I will be working in Ubuntu OS on Command line with vim as editor
 
 Work Log
 Day 1 - 2020/10/25 Let's do this!
-Day 2 - 2020/10/25 
+Day 2 - 2020/10/25
+Day 3 - 2020/10/25
