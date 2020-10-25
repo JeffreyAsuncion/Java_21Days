@@ -12,4 +12,11 @@ Work Log
 Day 1 - 2020/10/25 Let's do this!
 Day 2 - 2020/10/25
 Day 3 - 2020/10/25
-Day 4 - 2020/10/25  
+Day 4 - 2020/10/25
+
+Time to read Days 1 to 4
+- index cards notes
+- google notes or evernote
+
+
+Day 5 - 2020/10/25 no book example, custom examples 
